@@ -11,10 +11,10 @@ Minecraft Bedrock utility client
 - Nametags "Team Color" option
 - Nametags "Always Show Enemies" option
 - Scaffold <1 block per tick (making floats able to work for places per tick)
+- Scaffold Stop On Switch
 - OreMiner w/regen options
 - Semi-Scaffold Bypass (Public version)
 - HackerAlert & Enemies
-- Stop On Switch
 # My (rekitrelt's) WIP Features:
 - Trajectories (Barely works and crashes)
 - Freecam (Crashes)
