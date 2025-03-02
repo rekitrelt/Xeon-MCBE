@@ -22,6 +22,7 @@ Minecraft Bedrock utility client
 - UpClip (no not vclip)
 - Scaffold Bypass
 - Damage Boost+
+- Stop On Switch
   
 # Player5's Features:
 - Regen rotations
