@@ -14,6 +14,7 @@ Minecraft Bedrock utility client
 - OreMiner w/regen options
 - Semi-Scaffold Bypass (Public version)
 - HackerAlert & Enemies
+- Stop On Switch
 # My (rekitrelt's) WIP Features:
 - Trajectories (Barely works and crashes)
 - Freecam (Crashes)
@@ -22,7 +23,6 @@ Minecraft Bedrock utility client
 - UpClip (no not vclip)
 - Scaffold Bypass
 - Damage Boost+
-- Stop On Switch
   
 # Player5's Features:
 - Regen rotations
