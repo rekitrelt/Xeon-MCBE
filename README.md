@@ -15,6 +15,7 @@ Minecraft Bedrock utility client
 - Scaffold Stop On Switch (stopping ghost blocks when switching Blocks while scaffolding)
 - Scaffold Stop On Bypass (potentially avoiding bans with switching in and out of the bypass)
 - OreMiner w/regen options
+- OreMiner Visuals colours match the Ore colour
 - Semi-Scaffold Bypass (Public version)
 - HackerAlert & Enemies
 - AutoSnipe automatically add enemies option
