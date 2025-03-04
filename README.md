@@ -18,14 +18,15 @@ Minecraft Bedrock utility client
 - Semi-Scaffold Bypass (Public version)
 - HackerAlert & Enemies
 - AutoSnipe automatically add enemies option
-## rekitrelt's WIP Modules:
+# rekitrelt's WIP Modules:
 - Trajectories (Barely works and crashes)
 - Freecam (Crashes)
 - Freeze (Guaranteed detected)
-## rekitrelt's Private Features:
+# rekitrelt's Private Features:
 - UpClip (no not vclip)
 - Scaffold Bypass
 - Damage Boost+
+
   
 # Player5's Features:
 - Regen rotations
