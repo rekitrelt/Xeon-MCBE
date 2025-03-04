@@ -31,5 +31,5 @@ Minecraft Bedrock utility client
 # Player5's Features:
 - Regen rotations
 - OreMiner rotations: player5's regen rotations implemented into OreMiner by rekitrelt
-- Regen "Percentage Rotations" option
+- Regen "Percentage Rotations" option & now mplemented into OreMiner by rekitrelt
 - Scaffold "Sideways Extend" option
