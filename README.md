@@ -18,16 +18,17 @@ Minecraft Bedrock utility client
 - Scaffold Stop On Bypass (potentially avoiding bans with switching in and out of the bypass)
 - OreMiner w/regen options
 - OreMiner Visuals colours match the Ore colour
-- Semi-Scaffold Bypass (Public version)
+- Semi-Scaffold Bypass
 - HackerAlert & Enemies
 - AutoSnipe automatically add enemies option
+- Scaffold Bypass
 # rekitrelt's WIP Modules:
 - Trajectories (Barely works and crashes)
 - Freecam (Crashes)
 - Freeze (Guaranteed detected)
 # rekitrelt's Private Features:
 - UpClip (no not vclip)
-- Scaffold Bypass
+- (Worse than the public) Semi-Scaffold Bypass
 - Damage Boost+
 
   
