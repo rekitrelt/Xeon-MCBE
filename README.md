@@ -21,7 +21,7 @@ Minecraft Bedrock utility client
 - Semi-Scaffold Bypass
 - HackerAlert & Enemies
 - AutoSnipe automatically add enemies option
-- Scaffold Bypass
+- Sprint Jumping Diag Scaffold Bypass
 # rekitrelt's WIP Modules:
 - Trajectories (Barely works and crashes)
 - Freecam (Crashes)
