@@ -5,28 +5,23 @@ Minecraft Bedrock utility client
 
 [Discord](https://discord.gg/N9rvmmXVR2)
 
+everything listed on this list was something I found important enough to list and is something that I myself coded, any other major feature was most likely coded by the Solstice team as that is what Xeon uses as a base; Solstice
+# rekitrelt's Modules:
+- `Freeze` : Freeze midair
+- `InvManager` : "Drop" feature and a bunch of new items (e.g. ender pearls)
+- `ChestESP` : (separate from BlockESP)
+- `HackerAlert` : (hackers are added to new Enemies list which will show in ESP and Nametags)
 # rekitrelt's Features:
-- Aura : FOV/Angles
-- ChestESP separate from BlockESP
-- InvManager "Drop" feature and a bunch of new items (e.g. ender pearls)
-- Watermark+
-- Nametags "Show Absorption" option
-- Nametags "Team Color" option
-- Nametags "Always Show Enemies" option
-- Scaffold <1 block per tick (making floats able to work for places per tick)
-- Scaffold Stop On Switch (stopping ghost blocks when switching Blocks while scaffolding)
-- Scaffold Stop On Bypass (potentially avoiding bans with switching in and out of the bypass)
-- OreMiner w/regen options
-- OreMiner Visuals colours match the Ore colour
-- Semi-Scaffold Bypass
-- HackerAlert & Enemies
-- AutoSnipe automatically add enemies option
-- Sprint Jumping Diag Scaffold Bypass
-# rekitrelt's WIP Modules:
-- Trajectories (Barely works and crashes)
-- Freecam (Crashes)
-- Freeze (Guaranteed detected)
-# rekitrelt's Private Features:
-- UpClip (no not vclip)
-- (Worse than the public) Semi-Scaffold Bypass
-- Damage Boost+
+- `Aura` : FOV/Angles
+- `Nametags` : "Show Absorption", "Team Color", &  "Always Show Enemies" options
+- `Scaffold` : **Diag Sprint Jump Bypass**, < 1 block per tick, Stop On Switch & Stop On Bypass 
+- `OreMiner` : regen options & Visuals colours match the Ore colour
+- `AutoSnipe` : automatically add enemies option
+# WIP Modules:
+- `Freecam` : (breaks rotations)
+- `Trajectories` : (Crashes)
+# Private Features:
+- `UpClip` : (no not vclip)
+- `Damage Boost` : Very Customizable
+- `Encaser`
+- `Surround`
