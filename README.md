@@ -5,7 +5,8 @@ Minecraft Bedrock utility client
 
 [Discord](https://discord.gg/N9rvmmXVR2)
 
-everything listed on this list was something I found important enough to list and is something that I myself coded, any other major feature was most likely coded by the Solstice team as that is what Xeon uses as a base; Solstice
+Xeon uses Solstice as a base/sdk;
+and everything listed on this list was something I found important enough to list and is something that I myself coded, any other major feature was most likely coded by the Solstice team
 # rekitrelt's Modules:
 - `Freeze` : Freeze midair
 - `InvManager` : "Drop" feature and a bunch of new items (e.g. ender pearls)
