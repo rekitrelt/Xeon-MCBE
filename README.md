@@ -1,7 +1,9 @@
 # [Xeon-MCBE 1.21.44.1 Latest DLL](https://github.com/rekitrelt/Xeon-MCBE/releases/latest/download/Xeon.dll)
 Minecraft Bedrock utility client
 
-[Xeon Latest Download](https://github.com/rekitrelt/Xeon-MCBE/releases/latest/download/Xeon.dll)
+[Xeon Latest DLL Download](https://github.com/rekitrelt/Xeon-MCBE/releases/latest/download/Xeon.dll)
+
+[Xeon Auto-Updater DLL](https://github.com/rekitrelt/Xeon-MCBE/raw/refs/heads/main/XeonLoader.dll)
 
 [Discord](https://discord.gg/N9rvmmXVR2)
 
